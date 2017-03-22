@@ -28,9 +28,9 @@ Before running the tests make sure you are serving the app via `ng serve`.
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 ##Cara membuat componen baru menggunakan CMD
-    ng g c market
+    `ng g c market`
 
 ##Cara membuat component baru tanpa menyertakan file.spec
-    ng g c collection -is --spec false
+    `ng g c collection -is --spec false`
 ##Menambahkan component tanpa subfolder
-    ng g c header -is --spec false --flat
+    `ng g c header -is --spec false --flat`
